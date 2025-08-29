@@ -1,0 +1,11 @@
+// program for checking working or not
+#include <STDIO.H>
+#include <CONIO.H>
+void main(){
+clrscr();
+int a,b;
+printf("enetr the two number for sum \n");
+scanf("%d","%d",&a,&b);
+printf("the sum of given number is",a,b);
+getch();
+}
